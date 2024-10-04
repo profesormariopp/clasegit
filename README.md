@@ -1,5 +1,5 @@
 # clasegit
 
-## Prueba en remoto
+## Prueba2 en remoto
 bla bla
 bal bla
